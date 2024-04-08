@@ -1,0 +1,650 @@
+School,Housing_Type,Mother_Education,Father_Education,Mother_Work,Reason_School_Choice,Commute_Time,Weekly_Study_Time,Desire_Graduate_Education,Has_Internet,Alcohol_Weekdays,Alcohol_Weekends,Grade
+Gabriel Pereira,Urban,High Education,High Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Fail
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,More than 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,More than 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Rural,Secondary Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Homemaker,Reputation,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,More than 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,High,High,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Course Preference,More than 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,More than 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Rural,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Low Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,High Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,No,High,High,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,High,High,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Near Home and Other,More than 30 min,More than 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Low Education,High Education,Work,Course Preference,More than 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,High,Low,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,No,No,Low,Low,Fail
+Gabriel Pereira,Rural,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,No,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,More than 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Course Preference,More than 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Homemaker,Course Preference,More than 30 min,Up to 2h,Yes,No,Low,Low,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Homemaker,Course Preference,More than 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Homemaker,Course Preference,More than 30 min,More than 2h,Yes,No,Low,High,Fail
+Gabriel Pereira,Rural,Low Education,Low Education,Homemaker,Course Preference,More than 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,High,Low,Pass
+Gabriel Pereira,Rural,Low Education,Low Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Low Education,Low Education,Work,Course Preference,More than 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,High,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,No,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,More than 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,High,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,Yes,No,High,High,Fail
+Gabriel Pereira,Rural,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,No,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,High Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Fail
+Gabriel Pereira,Rural,Low Education,Low Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,No,High,Low,Fail
+Gabriel Pereira,Rural,Low Education,Low Education,Homemaker,Course Preference,More than 30 min,Up to 2h,Yes,No,Low,High,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Homemaker,Course Preference,More than 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,High,High,Fail
+Gabriel Pereira,Rural,Secondary Education,Low Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Gabriel Pereira,Rural,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,High,Fail
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,No,Low,High,Fail
+Gabriel Pereira,Urban,Low Education,High Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,High,Fail
+Gabriel Pereira,Rural,Low Education,Low Education,Work,Course Preference,More than 30 min,More than 2h,No,No,Low,High,Fail
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,No,No,Low,Low,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,No,Yes,Low,High,Fail
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,More than 30 min,Up to 2h,Yes,Yes,Low,High,Fail
+Gabriel Pereira,Urban,Low Education,,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,High Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Rural,High Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,High,High,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,High,Fail
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Near Home and Other,More than 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,High,High,Fail
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,Low,High,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,Low,High,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Homemaker,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Reputation,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,High,High,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Homemaker,Course Preference,More than 30 min,More than 2h,Yes,Yes,High,High,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,Low Education,Homemaker,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Homemaker,Course Preference,More than 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Rural,Low Education,High Education,Work,Course Preference,More than 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,No,Yes,High,High,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,No,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Rural,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,More than 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,No,Yes,High,High,Fail
+Gabriel Pereira,Rural,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,High,Fail
+Gabriel Pereira,Urban,High Education,High Education,Homemaker,Reputation,More than 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,No,Yes,Low,High,Fail
+Gabriel Pereira,Rural,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,More than 30 min,More than 2h,No,Yes,High,High,Pass
+Gabriel Pereira,Rural,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,No,No,Low,Low,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,No,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Gabriel Pereira,Rural,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,No,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,High,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Rural,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Homemaker,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,No,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,More than 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,No,Yes,High,Low,Fail
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,No,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Rural,Low Education,Low Education,Homemaker,Reputation,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Rural,High Education,High Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,High,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,High,High,Fail
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Course Preference,More than 30 min,More than 2h,No,No,High,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Course Preference,More than 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Rural,Secondary Education,Low Education,Work,Course Preference,More than 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Rural,High Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Homemaker,Course Preference,More than 30 min,More than 2h,Yes,No,Low,Low,Fail
+Gabriel Pereira,Rural,Secondary Education,High Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Rural,Secondary Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,Secondary Education,High Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,No,Yes,High,High,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,No,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,No,Yes,High,Low,Fail
+Gabriel Pereira,Rural,Low Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,High,High,Fail
+Gabriel Pereira,Urban,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,High Education,Low Education,Homemaker,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Rural,Secondary Education,High Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Fail
+Gabriel Pereira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Gabriel Pereira,Urban,Low Education,,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Gabriel Pereira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Low Education,High Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,No,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,High Education,High Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,High Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,No,No,Low,Low,Fail
+Mousinho da Silveira,Rural,High Education,High Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,High Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Homemaker,Reputation,Up to 30 min,More than 2h,No,No,Low,Low,Fail
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,No,High,High,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,High,Fail
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,High Education,High Education,Work,Near Home and Other,More than 30 min,More than 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Course Preference,More than 30 min,More than 2h,Yes,No,Low,High,Fail
+Mousinho da Silveira,Urban,High Education,High Education,Homemaker,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Near Home and Other,More than 30 min,Up to 2h,No,No,High,High,Fail
+Mousinho da Silveira,Rural,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,High Education,Work,Course Preference,More than 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Course Preference,More than 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,High,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Reputation,Up to 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Near Home and Other,More than 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Near Home and Other,More than 30 min,More than 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,High,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Course Preference,More than 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,High,High,Pass
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Course Preference,More than 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Reputation,More than 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Near Home and Other,More than 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,Low Education,High Education,Homemaker,Reputation,More than 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,No,No,Low,Low,Fail
+Mousinho da Silveira,Urban,Secondary Education,High Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Homemaker,Course Preference,More than 30 min,Up to 2h,No,No,Low,Low,Fail
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,No,No,Low,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Course Preference,More than 30 min,More than 2h,No,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,No,No,Low,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Fail
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,No,No,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,No,No,Low,Low,Fail
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,No,Yes,High,High,Fail
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,High,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Urban,,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,No,High,High,Fail
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,No,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,Up to 2h,No,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,High,High,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,No,Yes,High,High,Fail
+Mousinho da Silveira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Near Home and Other,More than 30 min,More than 2h,Yes,No,High,High,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Reputation,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Course Preference,More than 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Course Preference,More than 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,Low Education,,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,No,Low,High,Fail
+Mousinho da Silveira,Rural,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Mousinho da Silveira,Urban,Secondary Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Near Home and Other,More than 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,High Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,High Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,No,Yes,High,High,Fail
+Mousinho da Silveira,Rural,High Education,High Education,Homemaker,Near Home and Other,More than 30 min,More than 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Near Home and Other,More than 30 min,More than 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,High,High,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Near Home and Other,More than 30 min,More than 2h,Yes,Yes,High,Low,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,High,Fail
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Course Preference,More than 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Reputation,More than 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Mousinho da Silveira,Rural,High Education,High Education,Work,Course Preference,More than 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,Low Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,No,High,Low,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,High,High,Fail
+Mousinho da Silveira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,No,Yes,High,High,Fail
+Mousinho da Silveira,Urban,Low Education,,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,No,Low,High,Fail
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,No,No,High,High,Pass
+Mousinho da Silveira,Rural,Low Education,,Homemaker,Course Preference,More than 30 min,Up to 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,High,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,Low Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,High Education,Homemaker,Course Preference,Up to 30 min,More than 2h,No,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,High,Fail
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,High,Fail
+Mousinho da Silveira,Rural,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,High,High,Fail
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Near Home and Other,More than 30 min,More than 2h,Yes,Yes,High,Low,Fail
+Mousinho da Silveira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,High Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Near Home and Other,More than 30 min,Up to 2h,Yes,Yes,High,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,No,No,Low,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,,,Homemaker,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,No,No,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Course Preference,More than 30 min,More than 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Work,Reputation,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Homemaker,Course Preference,More than 30 min,More than 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,High,High,Pass
+Mousinho da Silveira,Rural,High Education,High Education,Homemaker,Near Home and Other,More than 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Near Home and Other,More than 30 min,Up to 2h,No,No,High,High,Pass
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Course Preference,More than 30 min,More than 2h,No,No,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,Up to 2h,No,No,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,High,Low,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,No,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,No,No,Low,High,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,Low Education,Work,Reputation,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Course Preference,More than 30 min,More than 2h,Yes,No,Low,High,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,High Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,High,Fail
+Mousinho da Silveira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Reputation,More than 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,Secondary Education,High Education,Homemaker,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,High Education,High Education,Work,Near Home and Other,More than 30 min,More than 2h,Yes,Yes,High,Low,Fail
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Near Home and Other,More than 30 min,Up to 2h,No,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,High Education,High Education,Work,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Near Home and Other,More than 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Homemaker,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,High Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,High,High,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,High Education,Low Education,Homemaker,Reputation,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,High,Pass
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Urban,Secondary Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Rural,Low Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,Low,Low,Fail
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Near Home and Other,Up to 30 min,Up to 2h,Yes,No,High,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,Low Education,Homemaker,Near Home and Other,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,High Education,Work,Near Home and Other,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,High Education,High Education,Work,Reputation,More than 30 min,Up to 2h,Yes,Yes,Low,Low,Fail
+Mousinho da Silveira,Rural,Secondary Education,High Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,Yes,Low,Low,Pass
+Mousinho da Silveira,Urban,Low Education,Low Education,Work,Course Preference,Up to 30 min,More than 2h,Yes,No,Low,Low,Pass
+Mousinho da Silveira,Urban,High Education,Low Education,Work,Course Preference,Up to 30 min,Up to 2h,Yes,Yes,High,High,Pass
+Mousinho da Silveira,Rural,High Education,Low Education,Work,Course Preference,More than 30 min,Up to 2h,Yes,Yes,High,High,Pass
